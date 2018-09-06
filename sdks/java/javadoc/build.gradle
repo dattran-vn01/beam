@@ -70,6 +70,7 @@ def exportedJavadocProjects = [
   ':beam-sdks-java-io-mqtt',
   ':beam-sdks-java-io-parquet',
   ':beam-sdks-java-io-redis',
+  ':beam-sdks-java-io-memcached',
   ':beam-sdks-java-io-solr',
   ':beam-sdks-java-io-tika',
   ':beam-sdks-java-io-xml',
